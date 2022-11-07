@@ -1,9 +1,5 @@
 
+let variável = 10 * 10;
 
-let variavel = 10
 
-console.log(variavel)
-
-variavel = 20;
-
-console.log(variavel)
+console.log(variável)
